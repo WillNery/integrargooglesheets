@@ -1,1 +1,1 @@
-web: sh setup.sh run teste.py
+web: run teste.py
