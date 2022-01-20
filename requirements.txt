@@ -14,7 +14,7 @@ google-auth-httplib2==0.1.0
 google-auth-oauthlib==0.4.6
 googleapis-common-protos==1.54.0
 httplib2==0.20.2
-heroku==0.1.4
+heroku3==5.1.4
 idna==3.3
 munch==2.5.0
 numpy==1.22.1
